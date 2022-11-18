@@ -1,0 +1,35 @@
+/* BASIC STYLES HERE */
+
+.giftSize {
+  height: 35vh;
+  width: 100%;
+}
+
+.closePosition {
+  position: absolute;
+  display: block;
+  -webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.103);
+  color: rgb(255, 255, 255) !important;
+  text-shadow: 2px 2px 1px #000, -1px -1px 1px #000, 1px -1px 1px #000,
+    -1px 1px 1px #000, 1px 1px 1px #000;
+}
+
+.sickText {
+  display: block;
+  -webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.103);
+  color: rgb(255, 255, 255) !important;
+  text-shadow: 2px 2px 1px #000, -1px -1px 1px #000, 1px -1px 1px #000,
+    -1px 1px 1px #000, 1px 1px 1px #000;
+}
+
+.greenGift {
+  color: green;
+}
+
+.redGift {
+  color: red;
+}
+
+.bgNice {
+  background-color: antiquewhite;
+}
