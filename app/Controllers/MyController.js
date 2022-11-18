@@ -1,3 +1,5 @@
 export class MyController {
-  constructor() {}
+  constructor() {
+    _drawDrawings();
+  }
 }
